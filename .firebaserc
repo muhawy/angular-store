@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-store-c3c93": {
+      "hosting": {
+        "store": [
+          "angular-store-c3c93"
+        ]
+      }
+    }
+  }
+}
